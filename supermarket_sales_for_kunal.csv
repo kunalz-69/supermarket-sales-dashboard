@@ -1,0 +1,3 @@
+Invoice ID,Branch,City,Customer type,Gender,Product line,Unit price,Quantity,Tax 5%,Total,Date,Time,Payment,cogs,gross margin percentage,gross income,Rating
+750-67-8428,A,Yangon,Member,Female,Health and beauty,74.69,7,26.14,548.82,1/5/2019,13:08,Ewallet,522.68,4.761905,26.14,9.1
+226-31-3081,C,Naypyitaw,Normal,Male,Electronic accessories,15.28,5,3.82,80.22,3/8/2019,10:29,Cash,76.4,4.761905,3.82,9.6
